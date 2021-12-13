@@ -8,12 +8,13 @@
 ****
 ## About Me
 
-
+****
 ## Skills
 * HTML5, CSS3
 * Java Script Basics
 * Git
 * Webstorm, VS Code
+****
 ## Code Example
 **Bit Counting KATA from CODEWARS:**
 >Write a function that takes an integer as input, and returns the number of bits that are equal to one in the binary representation of that number. You can guarantee that input is non-negative.
@@ -33,10 +34,32 @@ let countBits = function(n) {
   return count
 };
 ```
+****
 ## Work Experience
 
-
+****
 ## Education
+* **College:** College of Technology
+* **University:** Volga State Technological University
+* **Courses:**
+  + [JetBrains Academy: Frontend Developer](https://hyperskill.org/profile/84815089)
+    - HTML
+    - CSS
+    - JS
+  + [Coursera: Responsive Web Design (continue to study)]()
+    - HTML
+    - CSS
+    - JS
+    - jQuery
+    - Bootstrap
+  + [Sololearn]()
+    - HTML
+    - CSS
+    - JS
+    - jQuery
+    - Responsive Web Design
+****
+## Languages
+* **Russian**: Native
+* **English**: A2
 
-
-## English
