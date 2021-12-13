@@ -7,6 +7,14 @@
 * **GitHub**: [IlyaBalykov](https://github.com/IlyaBalykov)
 ****
 ## About Me
+After graduating from college, I got a job as an installer of electronic equipment and devices 
+of the 5th grade, then increased the grade to 6th and rested on the "ceiling". 
+Then he entered the university with a degree in infocommunication technologies and communication systems, 
+where he studied the hardware of devices that are used in various types of communications. 
+Since last year, I was interested in the software component and my attention was attracted 
+not by the development of programs for communication equipment, but by web development, 
+in particular, the frontend. I take many courses and intensives that allow me to learn 
+new things in front-end development.
 
 ****
 ## Skills
