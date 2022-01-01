@@ -1,1 +1,41 @@
-main
+html {
+    scroll-behavior: smooth;
+}
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 50px;
+    background-color: gray;
+}
+
+.nav-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    align-items: center;
+    padding: 0;
+    margin: 0;
+}
+.nav-menu__item {
+    list-style: none;
+}
+.nav-menu__item:hover {
+    cursor: pointer;
+}
+
+.nav-menu-link {
+    padding: 0 20px;
+    text-decoration: none;
+    color: whitesmoke;
+    line-height: 50px;
+}
