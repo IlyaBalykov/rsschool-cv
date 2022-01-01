@@ -56,7 +56,7 @@ body {
     justify-content: space-between;
 }
 .section {
-    width: 50%;
+    width: 48%;
     border-bottom: 5px solid lightgrey;
 }
 .section-title,
@@ -89,6 +89,41 @@ body {
     letter-spacing: 0;
 }
 
+.footer {
+    padding: 10px 0;
+    background-color: gray;
+}
+.footer-container {
+    display: flex;
+    flex-direction: row;
+}
+.footer__left-side {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+}
+.footer__right-side {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.footer__left-side,
+.footer__right-side {
+    width: 50%;
+}
+.footer-year {
+    color: whitesmoke;
+}
+.footer-git-link {
+    display: flex;
+}
+.footer-rss-link {
+    display: flex;
+}
+.footer-rss {
+    width: 100px;
+}
 @media (max-width: 768px) {
     .section {
         width: 100%;
