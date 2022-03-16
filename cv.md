@@ -51,6 +51,10 @@ let countBits = function(n) {
 * **College:** College of Technology
 * **University:** Volga State Technological University
 * **Courses:**
+  + [JS / FRONT-END. STAGE 0](https://app.rs.school/cv/9bea3ec1-7c96-447d-9610-0f9a1b551cc2)
+    - HTML
+    - CSS
+    - JS
   + [JetBrains Academy: Frontend Developer](https://hyperskill.org/profile/84815089)
     - HTML
     - CSS
