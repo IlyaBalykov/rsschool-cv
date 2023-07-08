@@ -7,7 +7,7 @@
 * **GitHub**: [IlyaBalykov](https://github.com/IlyaBalykov)
 ****
 ## About Me
-After graduating from college, I got a job as an installer of electronic equipment and devices 
+  After graduating from college, I got a job as an installer of electronic equipment and devices 
 of the 5th grade, then increased the grade to 6th and rested on the "ceiling". 
 Then he entered the university with a degree in infocommunication technologies and communication systems, 
 where he studied the hardware of devices that are used in various types of communications. 
