@@ -22,7 +22,7 @@ new things in front-end development.
 * HTML5, CSS3
 * Java Script Basics
 * Git
-* Webstorm, VS Code
+* Webstorm, PhpStorm, VS Code
 ****
 ## Code Example
 **Bit Counting KATA from CODEWARS:**
