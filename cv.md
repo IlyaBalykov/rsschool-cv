@@ -5,6 +5,7 @@
 * **Phone**: +7 917 714 77 38
 * **e-mail**: balykov.ilya.88@gmail.com
 * **GitHub**: [IlyaBalykov](https://github.com/IlyaBalykov)
+* **Discord**: Ilya Balykov (@IlyaBalykov)
 ****
 ## About Me
 After graduating from college, I got a job as an installer of electronic equipment and devices
