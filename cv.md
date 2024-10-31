@@ -44,7 +44,7 @@ let countBits = function(n) {
 ```
 ****
 ## Work Experience
-
+Only small pet projects
 ****
 ## Education
 * **College:** College of Technology
